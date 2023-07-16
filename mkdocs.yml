@@ -1,0 +1,9 @@
+site_name: Service Continuity-Oriented Edge Continuum @ Korea University
+repo_url: https://github.com/ku-netlab
+theme:
+  name: material
+  palette:
+    primary: black
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky

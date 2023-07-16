@@ -1,8 +1,3 @@
----
-hide:
-  - footer
----
-
 # About
 
 Service Continuity-Oriented Edge Continuum SW Framework is aimed at providing the followings:
